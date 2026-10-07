@@ -1,3 +1,10 @@
+> ## 👋 Start Here
+> A newer BuzzTube video-platform project. **For users:** this is a later experiment in building a custom video-sharing experience.
+>
+> **Safety & privacy:** Use security, network, camera, and data-collection features only with appropriate authorization and consent.
+
+---
+
 # 🎬 BuzzTube4  
 A lightweight, container‑ready HTML video player designed for simple deployments using Docker.
 
