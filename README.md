@@ -1,4 +1,9 @@
 > ## 👋 Start Here
+> A newer BuzzTube video-platform project. **For users:** explore a later experiment in building a custom video-sharing experience.
+
+---
+
+> ## 👋 Start Here
 > A newer BuzzTube video-platform project. **For users:** this is a later experiment in building a custom video-sharing experience.
 >
 > **Safety & privacy:** Use security, network, camera, and data-collection features only with appropriate authorization and consent.
